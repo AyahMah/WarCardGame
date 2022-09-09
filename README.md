@@ -1,6 +1,6 @@
 # SYST17796-Project
 
-#War Card Game
+War Card Game
 
 The program starts by allowing the user to choose to play with another player or play with the PC. The choice can be made by entering an integer as indicated with a short menu displayed to the player (1 for PC and 2 for another player). Any user errors are handled if the user enters anything besides the two accepted integers. The program then prompts the user to enter their name. The second user will also be prompted if 2 (the option to play with another player) was previously selected. The program will re-prompt users to enter their name if they enter invalid input. The game will then start.
 
